@@ -23,7 +23,7 @@
     "clickToViewPhotos": "Cliquez ici pour voir plus de photos",
     "partners": "Nos partenaires",
     "becomePartner": "Devenez partenaire !",
-    "featuredVideosTitle": "Featured #DFUA '15 Sessions",
+    "featuredVideosTitle": "Vidéos de 2016",
     "featuredVideosViewAll": "Voir toutes les vidéos",
     "featuredPeopleTitle": "Nos Super Speakers",
     "featuredPeopleViewAll": "Voir tous les speakers",
@@ -77,11 +77,11 @@
         "title": "Devenir partenaire",
         "links": [{
             "text": "Proposition de partenariat",
-            "url": "http://bit.ly/df16-sponsor",
+            "url": "https://goo.gl/qk3sCZ",
             "newTab": true
         }, {
             "text": "Kit Média",
-            "url": "http://bit.ly/devfesttlse2017-media-kit",
+            "url": "",
             "newTab": true
         }]
     }],
